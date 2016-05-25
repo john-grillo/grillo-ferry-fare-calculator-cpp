@@ -1,0 +1,8 @@
+﻿'canada.exe': Loaded 'C:\Users\USER_TEMPLATE\Documents\Visual Studio 2010\Projects\canada\Debug\canada.exe', Symbols loaded.
+'canada.exe': Loaded 'C:\Windows\System32\ntdll.dll', Cannot find or open the PDB file
+'canada.exe': Loaded 'C:\Windows\System32\kernel32.dll', Cannot find or open the PDB file
+'canada.exe': Loaded 'C:\Windows\System32\KernelBase.dll', Cannot find or open the PDB file
+'canada.exe': Loaded 'C:\Windows\System32\msvcp100d.dll', Symbols loaded.
+'canada.exe': Loaded 'C:\Windows\System32\msvcr100d.dll', Symbols loaded.
+'canada.exe': Loaded 'C:\Windows\System32\apphelp.dll', Cannot find or open the PDB file
+The program '[5968] canada.exe: Native' has exited with code -1073741510 (0xc000013a).
